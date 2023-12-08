@@ -18,7 +18,7 @@ export const defaultEnv = {
     continuousDialogue: true,
     model: "gpt-3.5" as SimpleModel
   },
-  CLIENT_DEFAULT_MESSAGE: `Powered by OpenAI Vercel`,
+  CLIENT_DEFAULT_MESSAGE: `Poweredd by OpenAI Vercel`,
   CLIENT_MAX_INPUT_TOKENS: {
     "gpt-3.5": 16 * 1000,
     "gpt-4": 32 * 1000
